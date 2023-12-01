@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Сounter</string>
+    <string name="header">Сounter info</string>
+    <string name="data">Дата последнего подключения:</string>
+    <string name="tch1">Накопительный счетчик 1:</string>
+    <string name="tch2">Накопительный счетчик 2:</string>
+    <string name="ch1">Счетчик последний период 1</string>
+    <string name="ch2">Счетчик последний период 2:</string>
+    <string name="adc">Аналоговый вход, вольты:</string>
+</resources>
